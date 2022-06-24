@@ -1,0 +1,50 @@
+---
+title: "STA130H1S -- Fall 2022"
+subtitle: Module 9 Tutorial Handout
+output: pdf_document
+---
+
+#### Today's agenda (5 min):  
+
+- Q&A/vocabulary list
+
+- Group Presentation
+
+- Work on final project 
+
+#### This Week's Vocab (15-20 min) : 
+
+- Observational study
+- Confounding
+- Confounded
+- Association
+- Causation
+- Experiment
+- Randomized (controlled) trial
+- Control group
+- Ethics/ ethical issue/ ethical consideration
+- Consent
+- Information
+- Comprehension
+- Voluntariness
+- Transparent
+- Web scraping
+- API
+- Rate-limit
+
+
+#### Group Presentation (50 min) :
+
+$~$
+
+*I will post the following material on Quercus in advance for students to access*
+
+Read the article on [racial disparities exposed by the COVID-19 pandemic](https://www.nature.com/immersive/d41586-021-00943-x/index.html). You can also find a PDF version in Module 10 on Quercus [link: ...]. After reading the article, you will prepare a 10-min group presentation providing a summary of the above article.(You are encouraged to find external sources, such as statistics, studies, news, policies, that support your claims as long as you correctly cite them.) Your presentation should include:
+
+- An introduction of the term "social determinants of health"
+
+- Three pieces of evidence cited by the article that contributed to difference in social determinants of health across racial groups.
+
+- Explain why it is important to discuss racial disparities in pandemic and what does it mean to you. 
+
+- What would you propose to help addressing the problem of racial disparities in pandemic.
