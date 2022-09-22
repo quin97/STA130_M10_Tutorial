@@ -1,6 +1,6 @@
 ---
 title: "STA130H1S -- Fall 2022"
-subtitle: Module 9 Tutorial Handout
+subtitle: Week 12 Tutorial Handout
 output: pdf_document
 ---
 
@@ -39,12 +39,32 @@ $~$
 
 *I will post the following material on Quercus in advance for students to access*
 
-Read the article on [racial disparities exposed by the COVID-19 pandemic](https://www.nature.com/immersive/d41586-021-00943-x/index.html). You can also find a PDF version in Module 10 on Quercus [link: ...]. After reading the article, you will prepare a 10-min group presentation providing a summary of the above article.(You are encouraged to find external sources, such as statistics, studies, news, policies, that support your claims as long as you correctly cite them.) Your presentation should include:
+Read the article on [$\text{\underline{racial disparities exposed by the COVID-19 pandemic}}$](https://www.nature.com/immersive/d41586-021-00943-x/index.html). You can also find a PDF version in Week 12 on Quercus. 
 
-- An introduction of the term "social determinants of health"
+You will prepare a 10-min group presentation based on the article.
 
-- Three pieces of evidence cited by the article that contributed to difference in social determinants of health across racial groups.
+**Your assignment is as follows: suppose you came across a research study on efficacies of COVID vaccines in the general US population. The study concludes that the vaccine efficacy is the highest in Non-Hispanic Whites, and only marginally significant in the African Americans. Explain what might have contributed to the unfortunate conclusion from the study; then, design a similar trial avoiding some of the same ethical pitfalls that you identified from the original study.**
 
-- Explain why it is important to discuss racial disparities in pandemic and what does it mean to you. 
+(You are encouraged to find external sources, such as statistics, studies, news, policies, that support your claims as long as you correctly cite them.) 
 
-- What would you propose to help addressing the problem of racial disparities in pandemic.
+
+## Your presentation should include:
+
+- An introduction of the problem.
+
+- Three factors that may have contributed to differences in COVID vaccine efficacies across racial groups (hint: social determinants of health)
+
+- Explain your trial design (e.g. sample size, participant demographics, stratification)
+
+- What would you propose to the policy-makers based on the finding of your studies and what's written in the article
+
+- Discuss the implication of racial disparities in pandemic and what does it mean to you. 
+
+
+## Some things to keep in mind  
+
+- The introduction should state the overall purpose of the presentation.   
+
+- Each main point should be “signaled.” Use *signal phrases* or *signposts* to transition between your points.
+
+- Every group member must speak during the presentation or marks will be deducted for participation.
